@@ -1,27 +1,27 @@
 const todosData = [
     {
         id: 1,
-        text: "Take out the trash",
+        text: "Go to shop and get stuff",
         completed: true
     },
     {
         id: 2,
-        text: "Grocery shopping",
+        text: "Start problem solving",
         completed: false
     },
     {
         id: 3,
-        text: "Clean gecko tank",
+        text: "Download YDKJS",
         completed: false
     },
     {
         id: 4,
-        text: "Mow lawn",
+        text: "Learn to Prioratize",
         completed: true
     },
     {
         id: 5,
-        text: "Catch up on Arrested Development",
+        text: "Catch up with the gang",
         completed: false
     }
     
